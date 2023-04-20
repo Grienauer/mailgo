@@ -19,6 +19,10 @@ Open directly Gmail, Outlook and Yahoo for emails; Telegram, WhatsApp or Skype f
 
 <https://wordpress.org/plugins/mailgo/>
 
+### Drupal
+
+<https://www.drupal.org/project/mailgo>
+
 ## thanks
 
 <a target="_blank" href="https://www.browserstack.com">
